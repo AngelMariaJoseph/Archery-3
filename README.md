@@ -1,2 +1,2 @@
-# Archery-3
-this time it's possible to have multiple areas to aim at!
+# PRO-C25-SA
+boilerplate code for student activituy
